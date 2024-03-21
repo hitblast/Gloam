@@ -1,0 +1,25 @@
+name: "Build Theme"
+
+on:
+  workflow_dispatch:
+
+steps:
+  - name: Checkout
+    uses: actions/checkout@v4
+
+  - name: Setup node
+    uses: actions/setup-node@v4
+    with:
+      node-version: latest
+
+  - name: Install vsce
+    run: npm install -g @vscode/vsce
+
+  - name: Package
+    run: vsce package
+
+  - name: Upload artifacts
+    uses: actions/upload-artifact@v4
+    with:
+      path: *.vsix
+      retention-days: 90
