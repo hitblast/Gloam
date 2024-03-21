@@ -1,0 +1,39 @@
+{
+    "name": "gloam",
+    "displayName": "Gloam",
+    "description": "🌃 A soft, yet charming VSCode dark theme that goes easy on your eyes.",
+    "icon": "",
+    "version": "0.0.1",
+    "publisher": "",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/hitblast/Gloam"
+    },
+    "license": "MIT",
+    "keywords": [
+        "theme",
+        "dark theme",
+        "coding friendly",
+        "aesthetic",
+        "industrial theme",
+        "dark",
+        "gloam",
+        "gloamtheme",
+        "gloamthemedark"
+    ],
+    "engines": {
+        "vscode": "^1.75.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Gloam",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Gloam-color-theme.json"
+            }
+        ]
+    }
+}

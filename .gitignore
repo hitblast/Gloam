@@ -1,0 +1,4 @@
+# Custom
+*.vsix
+.DS_Store
+.env
