@@ -113,6 +113,7 @@ SOFTWARE. */
 
 		// Tabs
 		"tab.activeBackground": "#0c0c0c",
+		"tab.activeBorderTop": "#f1f2e9",
 		"tab.inactiveBackground": "#111113",
 		"tab.inactiveForeground": "#f1f2e935",
 
