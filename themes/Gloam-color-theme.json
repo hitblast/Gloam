@@ -101,6 +101,14 @@ SOFTWARE. */
 		// Progress Bar
 		"progressBar.background": "#dde0eb",
 
+		// Extensions
+		"extensionIcon.starForeground": "#ffda9799",
+		"extensionIcon.verifiedForeground": "#dfffba99",
+		"extensionIcon.preReleaseForeground": "#fd6c8480",
+		"extensionButton.background": "#2a2b2e",
+		"extensionButton.foreground": "#000000",
+		"extensionButton.prominentForeground": "#dde0eb",
+
 		// Scroll Bar
 		"scrollbarSlider.background": "#00000035",
 		"scrollbarSlider.hoverBackground": "#00000055",
