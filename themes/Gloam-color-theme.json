@@ -63,7 +63,7 @@ SOFTWARE. */
 		"editorGroup.dropBackground": "#f1f2e920",
 		"editorGroupHeader.tabsBackground": "#111113",
 
-		"editorGutter.addedBackground": "#e8ffce80",
+		"editorGutter.addedBackground": "#e4ffc480",
 		"editorGutter.deletedBackground": "#fd6c8480",
 		"editorGutter.modifiedBackground": "#f1f2e980",
 
@@ -101,7 +101,7 @@ SOFTWARE. */
 
 		// Extensions
 		"extensionIcon.starForeground": "#ffda9799",
-		"extensionIcon.verifiedForeground": "#e8ffce99",
+		"extensionIcon.verifiedForeground": "#e4ffc499",
 		"extensionIcon.preReleaseForeground": "#fd6c8480",
 		"extensionButton.background": "#232427",
 		"extensionButton.prominentForeground": "#f1f2e9",
@@ -169,7 +169,7 @@ SOFTWARE. */
 		"minimap.warningHighlight": "#ffda97",
 		"minimap.errorHighlight": "#fd6c84",
 		"minimap.selectionHighlight": "#f1f2e915",
-		"minimapGutter.addedBackground": "#e8ffce70",
+		"minimapGutter.addedBackground": "#e4ffc470",
 		"minimapGutter.modifiedBackground": "#f1f2e970",
 		"minimapGutter.deletedBackground": "#fd6c8470",
 		
@@ -212,7 +212,7 @@ SOFTWARE. */
 		"terminal.ansiCyan": "#b0e2ff",
 		"terminal.ansiBrightCyan": "#c5eaff",
 		"terminal.ansiGreen": "#b0ffae",
-		"terminal.ansiBrightGreen": "#e8ffce",
+		"terminal.ansiBrightGreen": "#e4ffc4",
 		"terminal.ansiRed": "#fd6c84",
 		"terminal.ansiBrightRed": "#ff9faf",
 		"terminal.ansiWhite": "#f1f2e9",
@@ -233,7 +233,7 @@ SOFTWARE. */
 		// Testing 
 		"testing.iconErrored": "#ffda9770",
 		"testing.iconFailed": "#fd6c8470",
-		"testing.iconPassed": "#e8ffce70",
+		"testing.iconPassed": "#e4ffc470",
 		"testing.iconQueued": "#f1f2e970",
 		"testing.iconSkipped": "#c1ceff70",
 		"testing.iconUnset": "#f5f7fe70",
@@ -335,7 +335,7 @@ SOFTWARE. */
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#bdb7e5"
+				"foreground": "#c4b1d6"
 			}
 		},
 		{
@@ -403,7 +403,7 @@ SOFTWARE. */
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#e8ffce"
+				"foreground": "#e4ffc4"
 			}
 		},
 		{
@@ -529,7 +529,7 @@ SOFTWARE. */
 				"markup.inserted"
 			],
 			"settings": {
-				"foreground": "#e8ffce"
+				"foreground": "#e4ffc4"
 			}
 		},
 		{
@@ -678,7 +678,7 @@ SOFTWARE. */
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#e8ffce"
+				"foreground": "#e4ffc4"
 			}
 		},
 		{
@@ -717,7 +717,7 @@ SOFTWARE. */
 				"markup.heading.markdown punctuation.definition.heading.markdown"
 			],
 			"settings": {
-				"foreground": "#e8ffce"
+				"foreground": "#e4ffc4"
 			}
 		},
 		{
