@@ -35,5 +35,8 @@
                 "path": "./themes/Gloam-color-theme.json"
             }
         ]
+    },
+    "scripts": {
+        "deploy": "vsce publish"
     }
 }
