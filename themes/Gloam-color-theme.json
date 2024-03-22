@@ -161,7 +161,7 @@ SOFTWARE. */
 		"gitDecoration.ignoredResourceForeground": "#dde0eb90",
 
 		// Buttons
-		"button.background": "#0c0c0c",
+		"button.background": "#2a2b2e",
 		"button.foreground": "#dde0eb",
 
 		// Minimap
