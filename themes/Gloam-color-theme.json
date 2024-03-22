@@ -63,7 +63,7 @@ SOFTWARE. */
 		"editorGroup.dropBackground": "#dde0eb20",
 		"editorGroupHeader.tabsBackground": "#111113",
 
-		"editorGutter.addedBackground": "#daffd280",
+		"editorGutter.addedBackground": "#dfffba80",
 		"editorGutter.deletedBackground": "#fd6c8480",
 		"editorGutter.modifiedBackground": "#dde0eb80",
 
@@ -162,7 +162,7 @@ SOFTWARE. */
 		"minimap.warningHighlight": "#ffda97",
 		"minimap.errorHighlight": "#fd6c84",
 		"minimap.selectionHighlight": "#dde0eb15",
-		"minimapGutter.addedBackground": "#daffd270",
+		"minimapGutter.addedBackground": "#dfffba70",
 		"minimapGutter.modifiedBackground": "#dde0eb70",
 		"minimapGutter.deletedBackground": "#fd6c8470",
 		
@@ -199,7 +199,7 @@ SOFTWARE. */
 		"terminal.ansiCyan": "#b0e2ff",
 		"terminal.ansiBrightCyan": "#c5eaff",
 		"terminal.ansiGreen": "#b0ffae",
-		"terminal.ansiBrightGreen": "#daffd2",
+		"terminal.ansiBrightGreen": "#dfffba",
 		"terminal.ansiRed": "#fd6c84",
 		"terminal.ansiBrightRed": "#ff9faf",
 		"terminal.ansiWhite": "#dde0eb",
@@ -220,7 +220,7 @@ SOFTWARE. */
 		// Testing 
 		"testing.iconErrored": "#ffda9770",
 		"testing.iconFailed": "#fd6c8470",
-		"testing.iconPassed": "#daffd270",
+		"testing.iconPassed": "#dfffba70",
 		"testing.iconQueued": "#dde0eb70",
 		"testing.iconSkipped": "#c1ceff70",
 		"testing.iconUnset": "#f5f7fe70",
@@ -278,7 +278,7 @@ SOFTWARE. */
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#e2b8fd"
+				"foreground": "#fdb8b8"
 			}
 		},
 		{
@@ -322,7 +322,7 @@ SOFTWARE. */
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#bdd4ff"
+				"foreground": "#9dbab3"
 			}
 		},
 		{
@@ -357,7 +357,7 @@ SOFTWARE. */
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#ffb491"
+				"foreground": "#ffc684"
 			}
 		},
 		{
@@ -372,7 +372,7 @@ SOFTWARE. */
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#daffd2"
+				"foreground": "#dfffba"
 			}
 		},
 		{
@@ -498,7 +498,7 @@ SOFTWARE. */
 				"markup.inserted"
 			],
 			"settings": {
-				"foreground": "#daffd2"
+				"foreground": "#dfffba"
 			}
 		},
 		{
@@ -525,7 +525,7 @@ SOFTWARE. */
 				"string.regexp"
 			],
 			"settings": {
-				"foreground": "#89DDFF"
+				"foreground": "#cbf6ff"
 			}
 		},
 		{
@@ -534,7 +534,7 @@ SOFTWARE. */
 				"constant.character.escape"
 			],
 			"settings": {
-				"foreground": "#89DDFF"
+				"foreground": "#cbf6ff"
 			}
 		},
 		{
@@ -647,7 +647,7 @@ SOFTWARE. */
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#daffd2"
+				"foreground": "#dfffba"
 			}
 		},
 		{
@@ -686,7 +686,7 @@ SOFTWARE. */
 				"markup.heading.markdown punctuation.definition.heading.markdown"
 			],
 			"settings": {
-				"foreground": "#daffd2"
+				"foreground": "#dfffba"
 			}
 		},
 		{
