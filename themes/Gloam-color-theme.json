@@ -189,10 +189,16 @@ SOFTWARE. */
 		"statusBar.noFolderForeground": "#f1f2e980",
 		"statusBar.debuggingBackground": "#111113",
 		"statusBar.debuggingForeground": "#ffb0b485",
-		"statusBarItem.hoverBackground": "#f1f2e910",
+		"statusBarItem.warningBackground": "#6e562a",
+		"statusBarItem.hoverForeground": "#111113",
+		"statusBarItem.hoverBackground": "#f1f2e960",
 		"statusBarItem.remoteBackground": "#f1f2e9",
 		"statusBarItem.remoteForeground": "#111113",
-		"statusBarItem.warningBackground": "#6e562a",
+		"statusBarItem.remoteHoverBackground": "#f1f2e9",
+		"statusBarItem.remoteHoverForeground": "#111113",
+		"statusBarItem.prominentBackground": "#2c2c31",
+		"statusBarItem.prominentForeground": "#f1f2e9",
+		"statusBarItem.prominentHoverForeground": "#f1f2e9",
 
 		// Settings
 		"settings.modifiedItemIndicator": "#f1f2e9",
