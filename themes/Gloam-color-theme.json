@@ -166,7 +166,7 @@ SOFTWARE. */
 		"button.foreground": "#f1f2e9",
 
 		// Minimap
-		"minimap.background": "#111113",
+		"minimap.background": "#0c0c0c",
 		"minimap.warningHighlight": "#ffda97",
 		"minimap.errorHighlight": "#fd6c84",
 		"minimap.selectionHighlight": "#f1f2e915",
