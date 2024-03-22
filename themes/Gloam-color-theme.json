@@ -335,7 +335,25 @@ SOFTWARE. */
 				"keyword.other.special-method"
 			],
 			"settings": {
+				"foreground": "#c5c1e4"
+			}
+		},
+		{
+			"name": "Parameters",
+			"scope": [
+				"meta.function-call.arguments"
+			],
+			"settings": {
 				"foreground": "#9dbab3"
+			}
+		},
+		{
+			"name": "Variable Parameters",
+			"scope": [
+				"variable.parameter.function-call"
+			],
+			"settings": {
+				"foreground": "#cfe7e2"
 			}
 		},
 		{
