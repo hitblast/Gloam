@@ -105,7 +105,7 @@ SOFTWARE. */
 		"extensionIcon.starForeground": "#ffda9799",
 		"extensionIcon.verifiedForeground": "#dfffba99",
 		"extensionIcon.preReleaseForeground": "#fd6c8480",
-		"extensionButton.background": "#2a2b2e",
+		"extensionButton.background": "#232427",
 		"extensionButton.prominentForeground": "#dde0eb",
 
 		// Scroll Bar
@@ -161,7 +161,8 @@ SOFTWARE. */
 		"gitDecoration.ignoredResourceForeground": "#dde0eb90",
 
 		// Buttons
-		"button.background": "#2a2b2e",
+		"button.background": "#232427",
+		"button.border": "#dde0eb60",
 		"button.foreground": "#dde0eb",
 
 		// Minimap
