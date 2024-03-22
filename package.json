@@ -2,9 +2,9 @@
     "name": "gloam",
     "displayName": "Gloam",
     "description": "🌃 A soft, yet charming VSCode dark theme that goes easy on your eyes.",
-    "icon": "",
+    "icon": "assets/icon.png",
     "version": "0.0.1",
-    "publisher": "",
+    "publisher": "exthitblast",
     "repository": {
         "type": "git",
         "url": "https://github.com/hitblast/Gloam"
