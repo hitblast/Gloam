@@ -87,11 +87,9 @@ SOFTWARE. */
 
 		// Lists and Trees
 		"list.hoverBackground": "#0c0c0c",
-
 		"list.activeSelectionForeground": "#f1f2e9",
 		"list.activeSelectionIconForeground": "#f1f2e9",
 		"list.activeSelectionBackground": "#0c0c0c",
-
 		"list.inactiveSelectionForeground": "#f1f2e995",
 		"list.inactiveSelectionBackground": "#0c0c0c",
 		"list.inactiveSelectionIconForeground": "#f1f2e935",
@@ -114,7 +112,7 @@ SOFTWARE. */
 		"scrollbarSlider.activeBackground": "#00000085",
 
 		// Tabs
-		"tab.activeBackground": "#111113",
+		"tab.activeBackground": "#0c0c0c",
 		"tab.inactiveBackground": "#111113",
 		"tab.inactiveForeground": "#f1f2e935",
 
