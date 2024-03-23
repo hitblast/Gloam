@@ -30,8 +30,6 @@ Below is a preview of the theme in action. Feel free to have a look beforehand!
 
 <img src="assets/preview.png">
 
-<br>
-
 ## 🔨 Installation
 
 ### Marketplace
@@ -39,9 +37,13 @@ Below is a preview of the theme in action. Feel free to have a look beforehand!
 2. Search for: `exthitblast.gloam`
 3. Click on "Install" and voila!
 
-### Packaged VSIX
+### Command-line
 1. Download the latest release artifacts (`.vsix` files) from either the [GitHub Releases](https://github.com/hitblast/Gloam/releases) section or the [GitHub Actions](https://github.com/hitblast/Gloam/actions) page.
 2. Install the extension by running the following command:
 ```bash
-code --install-extension gloam-*.vsix
+$ code --install-extension gloam-*.vsix
+```
+3. Or, you can simply skip the first step and install the extension directly (marketplace CLI):
+```bash
+$ code --install-extension exthitblast.gloam
 ```
