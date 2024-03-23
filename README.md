@@ -7,8 +7,6 @@
 
 <code>
 $ code --install-extension exthitblast.gloam
-
-# or
 $ code --install-extension gloam-0.0.1.vsix
 </code>
 
