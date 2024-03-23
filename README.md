@@ -9,7 +9,7 @@
 
 [![Build & Release](https://github.com/hitblast/Gloam/actions/workflows/build.yml/badge.svg)](https://github.com/hitblast/Gloam/actions/workflows/build.yml)
 
-<br><br>
+<br>
 
 </div>
 
