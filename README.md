@@ -18,11 +18,11 @@
 - **Warm Tone**: A soft, warm color palette that's suitable for long, coding hours.
 - **High Contrast**: Makes it easy to read and write code.
 - **Universal**: Works well with most languages and file types.
-- **Open Source**: Feel free to contribute and make it better!
+- **Open-source**: Feel free to contribute and make it better!
 
 <br>
 
-##  Preview
+## ⚡ Preview
 
 Below is a preview of the theme in action. Feel free to have a look beforehand!
 
@@ -47,3 +47,7 @@ $ code --install-extension gloam-*.vsix
 ```bash
 $ code --install-extension exthitblast.gloam
 ```
+
+## 🔖 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
