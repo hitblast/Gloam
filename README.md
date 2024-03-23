@@ -22,6 +22,16 @@
 
 <br>
 
+##  Preview
+
+Below is a preview of the theme in action. Feel free to have a look beforehand!
+
+(Project shown in the preview: [avro.py](https://github.com/hitblast/avro.py))
+
+<img src="assets/preview.png">
+
+<br>
+
 ## 🔨 Installation
 
 ### Marketplace
