@@ -207,22 +207,22 @@ SOFTWARE. */
 		"settings.dropdownForeground": "#f1f2e9",
 
 		// Terminal
-		"terminal.ansiBlue": "#a2b6ff",
-		"terminal.ansiBrightBlue": "#ccd7ff",
+		"terminal.ansiBlue": "#b2ccd6",
+		"terminal.ansiBrightBlue": "#cbe8f3",
 		"terminal.ansiCyan": "#b0e2ff",
 		"terminal.ansiBrightCyan": "#c5eaff",
-		"terminal.ansiGreen": "#b0ffae",
+		"terminal.ansiGreen": "#e4ffc4",
 		"terminal.ansiBrightGreen": "#e4ffc4",
-		"terminal.ansiRed": "#fd6c84",
-		"terminal.ansiBrightRed": "#ff9faf",
+		"terminal.ansiRed": "#fdb8b8",
+		"terminal.ansiBrightRed": "#ffc2cc",
 		"terminal.ansiWhite": "#f1f2e9",
-		"terminal.ansiBrightWhite": "#f5f7fe",
+		"terminal.ansiBrightWhite": "#ffffff",
 		"terminal.ansiYellow": "#ffef97",
-		"terminal.ansiBrightYellow": "#fff4b5",
+		"terminal.ansiBrightYellow": "#fff8d3",
 		"terminal.ansiBlack": "#111113",
 		"terminal.ansiBrightBlack": "#0c0c0c",
-		"terminal.ansiMagenta": "#c468c4",
-		"terminal.ansiBrightMagenta": "#f08af0",
+		"terminal.ansiMagenta": "#c4b1d6",
+		"terminal.ansiBrightMagenta": "#d8baf4",
 		"terminal.foreground": "#f1f2e9",
 		"terminal.border": "#111113",
 		"terminal.tab.activeBorder": "#fff4b5",
@@ -428,7 +428,7 @@ SOFTWARE. */
 				"support.type"
 			],
 			"settings": {
-				"foreground": "#B2CCD6"
+				"foreground": "#b2ccd6"
 			}
 		},
 		{
@@ -442,7 +442,7 @@ SOFTWARE. */
 				"source.postcss support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#B2CCD6"
+				"foreground": "#b2ccd6"
 			}
 		},
 		{
