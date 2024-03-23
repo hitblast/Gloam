@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="assets/icon.png" style="width: 100px; height: auto;">
-
 # Gloam: VSCode Theme
 ### ✨ A soft, yet charming VSCode theme that goes easy on your eyes.
 
@@ -9,8 +7,23 @@
 
 <br>
 <img src="assets/banner.png" style="width: 800px; height: auto;">
+<br>
 
 </div>
+
+## 🔨 Installation
+
+### 📦 Marketplace
+1. Open the Extensions sidebar in VS Code. View → Extensions
+2. Search for: `exthitblast.gloam`
+3. Click on "Install" and voila!
+
+### 📦 Packaged VSIX
+1. Download the latest release artifacts (`.vsix` files) from either the [GitHub Releases](https://github.com/hitblast/Gloam/releases) section or the [GitHub Actions](https://github.com/hitblast/Gloam/actions) page.
+2. Install the extension by running the following command:
+```bash
+code --install-extension gloam-*.vsix
+```
 
 ## 🌟 Features
 
