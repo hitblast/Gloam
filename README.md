@@ -52,6 +52,12 @@ $ code --install-extension gloam-*.vsix
 $ code --install-extension exthitblast.gloam
 ```
 
+### 🎨 Suggested Configuration
+
+- Color Theme: **Gloam (default)**
+- Product Icon Theme:: [**Carbon Product Icons**](https://marketplace.visualstudio.com/items?itemName=antfu.icons-carbon)
+- File Icon Theme: **None (disabled)**
+
 <br>
 
 ## 🔖 License
