@@ -20,11 +20,9 @@
 - **Universal**: Works well with most languages and file types.
 - **Open-source**: Feel free to contribute and make it better!
 
-<br>
-
 ## 🪶 Why?
 
-Ever since I've started programming in VSCode, there's always been an everyday hassle related to customization. I wanted to find the proper theme that matches perfectly with my desktop environment and at the same time, is also eye-friendly. I've also tried making themes without deep indulgence into optimized color palettes before, but those didn't work out as expected. So out of this necessity, I've created Gloam, a theme that attempts to solve both of these issues and make your coding experience more enjoyable and aesthetic at the same time.
+> Ever since I've started programming in VSCode, there's always been an everyday hassle related to customization. I wanted to find the proper theme that matches perfectly with my desktop environment and at the same time, is also eye-friendly. I've also tried making themes without deep indulgence into optimized color palettes before, but those didn't work out as expected. So out of this necessity, I've created Gloam, a theme that attempts to solve both of these issues and make your coding experience more enjoyable and aesthetic at the same time.
 
 <br>
 
