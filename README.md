@@ -8,6 +8,7 @@
 <br>
 
 [![Build & Release](https://github.com/hitblast/Gloam/actions/workflows/build.yml/badge.svg)](https://github.com/hitblast/Gloam/actions/workflows/build.yml)
+[![Release to Marketplace](https://github.com/hitblast/Gloam/actions/workflows/release.yml/badge.svg)](https://github.com/hitblast/Gloam/actions/workflows/release.yml)
 
 <br>
 
