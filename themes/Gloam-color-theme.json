@@ -131,6 +131,9 @@ SOFTWARE. */
 		"titleBar.inactiveForeground": "#f1f2e930",
 		"titleBar.border": "#f1f2e930",
 
+		// Panel Titles
+		"panelTitle.activeBorder": "#f1f2e980",
+
 		// Badges
 		"badge.foreground": "#111113",
 		"badge.background": "#f1f2e9",
