@@ -102,6 +102,7 @@ SOFTWARE. */
 		"list.inactiveSelectionIconForeground": "#f1f2e935",
 		"list.warningForeground": "#ffda97",
 		"list.errorForeground": "#fd6c84",
+		"tree.indentGuidesStroke": "#f1f2e930",
 
 		// Progress Bar
 		"progressBar.background": "#f1f2e9",
