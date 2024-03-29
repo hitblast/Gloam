@@ -77,6 +77,13 @@ SOFTWARE. */
 		"editorOverviewRuler.background": "#0c0c0c",
 		"editorOverviewRuler.border": "#0c0c0c",
 
+		// Diff Editor
+		"diffEditor.insertedLineBackground": "#e4ffc420",
+		"diffEditorGutter.insertedLineBackground": "#e4ffc410",
+		"diffEditor.removedLineBackground": "#ffb0b420",
+		"diffEditorGutter.removedLineBackground": "#ffb0b410",
+		"diffEditor.diagonalFill": "#f1f2e925",
+
 		// Peek View
 		"peekView.border": "#f1f2e930",
 		"peekViewEditor.background": "#25272e",
