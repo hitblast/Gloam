@@ -26,7 +26,7 @@ SOFTWARE. */
 	"type": "dark",
 	"colors": {
 		// Base
-		"focusBorder": "#f1f2e930",
+		"focusBorder": "#f1f2e925",
 		"icon.foreground": "#f1f2e960",
 		"widget.shadow": "#f1f2e920",
 
@@ -47,9 +47,9 @@ SOFTWARE. */
 		
 		"editorWarning.foreground": "#ffda97",
 		"editorError.foreground": "#fd6c84",
-		"editorCodeLens.foreground": "#f1f2e930",
+		"editorCodeLens.foreground": "#f1f2e925",
 
-		"editorBracketHighlight.foreground1": "#f1f2e930",
+		"editorBracketHighlight.foreground1": "#f1f2e925",
 		"editorBracketHighlight.foreground2": "#f1f2e960",
 		"editorBracketHighlight.foreground3": "#f1f2e970",
 		"editorBracketHighlight.foreground4": "#f1f2e980",
@@ -68,7 +68,7 @@ SOFTWARE. */
 		"editorGutter.modifiedBackground": "#f1f2e980",
 
 		"editorWidget.background": "#111113",
-		"editorHoverWidget.border": "#f1f2e930",
+		"editorHoverWidget.border": "#f1f2e925",
 		"editorHoverWidget.foreground": "#f1f2e9",
 
 		"editorLineNumber.activeForeground": "#ebedf3",
@@ -85,11 +85,11 @@ SOFTWARE. */
 		"diffEditor.diagonalFill": "#f1f2e925",
 
 		// Peek View
-		"peekView.border": "#f1f2e930",
+		"peekView.border": "#f1f2e925",
 		"peekViewEditor.background": "#25272e",
-		"peekViewEditor.matchHighlightBackground": "#f1f2e930",
+		"peekViewEditor.matchHighlightBackground": "#f1f2e925",
 		"peekViewTitle.background": "#111113",
-		"peekViewTitleDescription.foreground": "#f1f2e930",
+		"peekViewTitleDescription.foreground": "#f1f2e925",
 		"peekViewResult.background": "#111113",
 
 		// Lists and Trees
@@ -102,7 +102,7 @@ SOFTWARE. */
 		"list.inactiveSelectionIconForeground": "#f1f2e935",
 		"list.warningForeground": "#ffda97",
 		"list.errorForeground": "#fd6c84",
-		"tree.indentGuidesStroke": "#f1f2e930",
+		"tree.indentGuidesStroke": "#f1f2e925",
 
 		// Progress Bar
 		"progressBar.background": "#f1f2e9",
@@ -129,8 +129,8 @@ SOFTWARE. */
 		"titleBar.activeBackground": "#111113",
 		"titleBar.inactiveBackground": "#111113",
 		"titleBar.activeForeground": "#f1f2e980",
-		"titleBar.inactiveForeground": "#f1f2e930",
-		"titleBar.border": "#f1f2e930",
+		"titleBar.inactiveForeground": "#f1f2e925",
+		"titleBar.border": "#f1f2e925",
 
 		// Panel Titles
 		"panelTitle.activeBorder": "#f1f2e980",
@@ -145,21 +145,21 @@ SOFTWARE. */
 		"activityBarBadge.background": "#f1f2e9",
 		"activityBarBadge.foreground": "#111113",
 		"activityBar.activeBorder": "#f1f2e9",
-		"activityBar.border": "#f1f2e930",
+		"activityBar.border": "#f1f2e925",
 		"activityBar.inactiveForeground": "#f1f2e935",
 
 		// Side Bar
 		"sideBarTitle.foreground": "#f1f2e9",
 		"sideBar.background": "#111113",
 		"sideBar.foreground": "#f1f2e9",
-		"sideBar.border": "#f1f2e930",
+		"sideBar.border": "#f1f2e925",
 		"sideBarSectionHeader.background": "#0c0c0c",
 		"sideBarSectionHeader.foreground": "#f1f2e9",
-		"sideBarSectionHeader.border": "#f1f2e930",
+		"sideBarSectionHeader.border": "#f1f2e925",
 
 		// Debug Tool Bar
 		"debugToolBar.background": "#0c0c0c",
-		"debugToolBar.border": "#f1f2e930",
+		"debugToolBar.border": "#f1f2e925",
 		"debugIcon.continueForeground": "#f1f2e9",
 		"debugIcon.stepOverForeground": "#f1f2e9",
 		"debugIcon.stepIntoForeground": "#f1f2e9",
@@ -186,7 +186,7 @@ SOFTWARE. */
 		
 		// Inputs
 		"input.background": "#17171a",
-		"input.placeholderForeground": "#f1f2e930",
+		"input.placeholderForeground": "#f1f2e925",
 
 		// Notifications
 		"notifications.background": "#111113",
@@ -238,7 +238,7 @@ SOFTWARE. */
 		"terminal.border": "#111113",
 		"terminal.tab.activeBorder": "#fff4b5",
 		"terminalCommandDecoration.defaultBackground": "#f1f2e9",
-		"terminalCommandDecoration.successBackground": "#f1f2e930",
+		"terminalCommandDecoration.successBackground": "#f1f2e925",
 		"terminalCommandDecoration.errorBackground": "#fd6c84",
 
 		// Testing 
@@ -291,7 +291,7 @@ SOFTWARE. */
 				"invalid.illegal"
 			],
 			"settings": {
-				"foreground": "#fd6c84"
+				"foreground": "#ff9d92"
 			}
 		},
 		{
@@ -699,7 +699,7 @@ SOFTWARE. */
 				"punctuation.definition.list_item.markdown"
 			],
 			"settings": {
-				"foreground": "#e2fafa"
+				"foreground": "#f1f2e9"
 			}
 		},
 		{
