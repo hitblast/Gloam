@@ -168,7 +168,7 @@ SOFTWARE. */
 		"debugIcon.stopForeground": "#ffb0b4",
 
 		// Git Decoration
-		"gitDecoration.ignoredResourceForeground": "#f1f2e990",
+		"gitDecoration.ignoredResourceForeground": "#f1f2e950",
 
 		// Buttons
 		"button.background": "#232427",
