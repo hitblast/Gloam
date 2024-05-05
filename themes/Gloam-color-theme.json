@@ -200,7 +200,7 @@ SOFTWARE. */
 		"statusBar.noFolderBackground": "#111113",
 		"statusBar.noFolderForeground": "#f1f2e940",
 		"statusBar.debuggingBackground": "#111113",
-		"statusBar.debuggingForeground": "#ffb0b485",
+		"statusBar.debuggingForeground": "#ffb0b440",
 		"statusBarItem.warningBackground": "#6e562a",
 		"statusBarItem.hoverForeground": "#111113",
 		"statusBarItem.hoverBackground": "#f1f2e960",
