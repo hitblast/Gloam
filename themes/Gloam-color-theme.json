@@ -418,6 +418,15 @@ SOFTWARE. */
 			}
 		},
 		{
+			"name": "Plain, unquoted strings",
+			"scope": [
+				"string.unquoted"
+			],
+			"settings": {
+				"foreground": "#f1f2e9"
+			}
+		},
+		{
 			"name": "Class, Support",
 			"scope": [
 				"entity.name",
@@ -617,7 +626,7 @@ SOFTWARE. */
 				"source.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#e3a7e6"
 			}
 		},
 		{
