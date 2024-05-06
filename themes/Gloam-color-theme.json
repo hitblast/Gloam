@@ -150,11 +150,12 @@ SOFTWARE. */
 
 		// Side Bar
 		"sideBarTitle.foreground": "#f1f2e9",
-		"sideBar.background": "#111113",
+		"sideBarTitle.background": "#0c0c0c",
+		"sideBar.background": "#0c0c0c",
 		"sideBar.foreground": "#f1f2e9",
 		"sideBar.border": "#f1f2e925",
 		"sideBarSectionHeader.background": "#0c0c0c",
-		"sideBarSectionHeader.foreground": "#f1f2e9",
+		"sideBarSectionHeader.foreground": "#ffeac4",
 		"sideBarSectionHeader.border": "#f1f2e925",
 
 		// Debug Tool Bar
@@ -168,7 +169,7 @@ SOFTWARE. */
 		"debugIcon.stopForeground": "#ffb0b4",
 
 		// Git Decoration
-		"gitDecoration.ignoredResourceForeground": "#f1f2e950",
+		"gitDecoration.ignoredResourceForeground": "#f1f2e960",
 
 		// Buttons
 		"button.background": "#232427",
@@ -196,11 +197,11 @@ SOFTWARE. */
 
 		// Status Bar
 		"statusBar.background": "#111113",
-		"statusBar.foreground": "#f1f2e940",
+		"statusBar.foreground": "#f1f2e950",
 		"statusBar.noFolderBackground": "#111113",
-		"statusBar.noFolderForeground": "#f1f2e940",
+		"statusBar.noFolderForeground": "#f1f2e950",
 		"statusBar.debuggingBackground": "#111113",
-		"statusBar.debuggingForeground": "#ffb0b440",
+		"statusBar.debuggingForeground": "#ffb0b450",
 		"statusBarItem.warningBackground": "#6e562a",
 		"statusBarItem.hoverForeground": "#111113",
 		"statusBarItem.hoverBackground": "#f1f2e960",
@@ -250,8 +251,8 @@ SOFTWARE. */
 		"testing.iconUnset": "#f5f7fe70",
 
 		// Text Links
-		"textLink.foreground": "#ccd7ff90",
-		"textLink.activeForeground": "#ccd7ff"
+		"textLink.foreground": "#ebffcc90",
+		"textLink.activeForeground": "#ebffcc"
 	},
 	"tokenColors": [
 		{
