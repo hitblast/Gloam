@@ -493,7 +493,7 @@ SOFTWARE. */
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#94b4fa"
+				"foreground": "#94bbfa"
 			}
 		},
 		{
@@ -503,7 +503,7 @@ SOFTWARE. */
 				"variable.function.constructor"
 			],
 			"settings": {
-				"foreground": "#94b4fa"
+				"foreground": "#94bbfa"
 			}
 		},
 		{
@@ -541,7 +541,7 @@ SOFTWARE. */
 				"source.sass keyword.control"
 			],
 			"settings": {
-				"foreground": "#94b4fa"
+				"foreground": "#94bbfa"
 			}
 		},
 		{
@@ -608,7 +608,7 @@ SOFTWARE. */
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#94b4fa"
+				"foreground": "#94bbfa"
 			}
 		},
 		{
@@ -672,7 +672,7 @@ SOFTWARE. */
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#94b4fa"
+				"foreground": "#94bbfa"
 			}
 		},
 		{
@@ -811,7 +811,7 @@ SOFTWARE. */
 				"string.other.link.title.markdown"
 			],
 			"settings": {
-				"foreground": "#94b4fa"
+				"foreground": "#94bbfa"
 			}
 		},
 		{
