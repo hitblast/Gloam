@@ -45,11 +45,11 @@ Below is a preview of the theme in action. Feel free to have a look beforehand!
 ### Command-line
 1. Download the latest release artifacts (`.vsix` files) from either the [GitHub Releases](https://github.com/hitblast/Gloam/releases) section or the [GitHub Actions](https://github.com/hitblast/Gloam/actions) page.
 2. Install the extension by running the following command:
-```bash
+```sh
 $ code --install-extension gloam-*.vsix
 ```
 3. Or, you can simply skip the first step and install the extension directly (marketplace CLI):
-```bash
+```sh
 $ code --install-extension exthitblast.gloam
 ```
 
