@@ -198,9 +198,9 @@ SOFTWARE. */
 
 		// Status Bar
 		"statusBar.background": "#111113",
-		"statusBar.foreground": "#fbf7e150",
+		"statusBar.foreground": "#fbf7e140",
 		"statusBar.noFolderBackground": "#111113",
-		"statusBar.noFolderForeground": "#fbf7e150",
+		"statusBar.noFolderForeground": "#fbf7e140",
 		"statusBar.debuggingBackground": "#111113",
 		"statusBar.debuggingForeground": "#ffb0b450",
 		"statusBarItem.warningBackground": "#6e562a",
