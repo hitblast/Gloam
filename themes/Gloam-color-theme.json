@@ -97,9 +97,10 @@ SOFTWARE. */
 		"list.activeSelectionForeground": "#f8f6ea",
 		"list.activeSelectionIconForeground": "#f8f6ea",
 		"list.activeSelectionBackground": "#0c0c0c",
-		"list.inactiveSelectionForeground": "#f8f6ea95",
-		"list.inactiveSelectionBackground": "#0c0c0c",
+		"list.inactiveSelectionForeground": "#f8f6ea60",
+		"list.inactiveSelectionBackground": "#111113",
 		"list.inactiveSelectionIconForeground": "#f8f6ea35",
+		"list.inactiveFocusOutline": "#f8f6ea60",
 		"list.warningForeground": "#ffda97",
 		"list.errorForeground": "#fd6c84",
 		"tree.indentGuidesStroke": "#f8f6ea25",
@@ -169,7 +170,7 @@ SOFTWARE. */
 		"debugIcon.stopForeground": "#ffb0b4",
 
 		// Git Decoration
-		"gitDecoration.ignoredResourceForeground": "#f8f6ea40",
+		"gitDecoration.ignoredResourceForeground": "#7d7d76",
 
 		// Buttons
 		"button.background": "#232427",
