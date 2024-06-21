@@ -59,7 +59,7 @@ $ code --install-extension exthitblast.gloam
 
 - Color Theme: **Gloam (default)**
 - Product Icon Theme: [**Carbon Product Icons**](https://marketplace.visualstudio.com/items?itemName=antfu.icons-carbon)
-- File Icon Theme: **None (disabled)**
+- File Icon Theme: [**JetBrains Icons Enhanced**](https://marketplace.visualstudio.com/items?itemName=BrennonDenny.vsc-jetbrains-icons-enhanced)
 
 <br>
 
