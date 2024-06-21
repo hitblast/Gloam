@@ -71,11 +71,17 @@ SOFTWARE. */
 		"editorHoverWidget.border": "#fbf7e125",
 		"editorHoverWidget.foreground": "#fbf7e1",
 
-		"editorLineNumber.activeForeground": "#ebedf3",
+		"editorLineNumber.activeForeground": "#fbf7e1",
 		"editorLineNumber.foreground": "#fbf7e125",
 
 		"editorOverviewRuler.background": "#0c0c0c",
 		"editorOverviewRuler.border": "#0c0c0c",
+
+		"editorUnicodeHighlight.border": "#ffda97",
+		"editorLightBulb.foreground": "#ffda97",
+		"editorLightBulbAi.foreground": "#ffda97",
+		"editorLightBulbAutoFix.foreground": "#ffda97",
+		"editorMultiCursor.primary.foreground": "#ffda97",
 
 		// Diff Editor
 		"diffEditor.insertedLineBackground": "#e9ffc420",
