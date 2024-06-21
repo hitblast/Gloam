@@ -646,7 +646,7 @@ SOFTWARE. */
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#fda388"
+				"foreground": "#fdaf88"
 			}
 		},
 		{
@@ -785,7 +785,7 @@ SOFTWARE. */
 			],
 			"settings": {
 				"fontStyle": "underline",
-				"foreground": "#fda388"
+				"foreground": "#fdaf88"
 			}
 		},
 		{
