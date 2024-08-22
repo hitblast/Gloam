@@ -45,6 +45,8 @@ SOFTWARE. */
 		"editor.wordHighlightBackground": "#fbf7e125",
 		"editor.wordHighlightStrongBackground": "#fbf7e135",
 		"editor.wordHighlightStrongBorder": "#fbf7e1",
+
+		"editorRuler.foreground": "#ffda9730",
 		
 		"editorWarning.foreground": "#ffda97",
 		"editorError.foreground": "#fd6c84",
@@ -76,7 +78,7 @@ SOFTWARE. */
 		"editorLineNumber.foreground": "#fbf7e125",
 
 		"editorOverviewRuler.background": "#0c0c0c",
-		"editorOverviewRuler.border": "#0c0c0c",
+		"editorOverviewRuler.border": "#ffda9730",
 
 		"editorUnicodeHighlight.border": "#ffda97",
 		"editorLightBulb.foreground": "#ffda97",
@@ -276,7 +278,7 @@ SOFTWARE. */
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#404c52"
+				"foreground": "#fffdf330"
 			}
 		},
 		{
