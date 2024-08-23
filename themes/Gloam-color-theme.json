@@ -23,7 +23,7 @@ SOFTWARE. */
 
 {
 	"name": "Gloam",
-	"type": "dark",
+	"type": "light",
 	"colors": {
 		// Base
 		"focusBorder": "#fbf7e125",
@@ -205,15 +205,14 @@ SOFTWARE. */
 		"minimapGutter.deletedBackground": "#fd6c8470",
 		
 		// Inputs
-		"input.background": "#0c0c0c30",
-		"input.foreground": "#0c0c0c",
-		"input.placeholderForeground": "#0c0c0c",
+		"input.background": "#0c0c0c80",
+		"input.foreground": "#fbf7e1",
+		"input.placeholderForeground": "#fbf7e150",
+		"settings.textInputForeground": "#fbf7e1",
 
 		// Quick Input
-		"quickInput.background": "#fbf7e1",
-		"quickInput.foreground": "#0c0c0c",
-		"quickInputList.focusBackground": "#0c0c0c",
-		"quickInputList.focusForeground": "#fbf7e1",
+		"quickInput.background": "#0c0c0c",
+		"quickInput.foreground": "#fbf7e1",
 
 		// Notifications
 		"notifications.background": "#111113",
@@ -281,7 +280,7 @@ SOFTWARE. */
 
 		// Text Links
 		"textLink.foreground": "#819367",
-		"textLink.activeForeground": "#819367"
+		"textLink.activeForeground": "#819367",
 	},
 	"tokenColors": [
 		{
