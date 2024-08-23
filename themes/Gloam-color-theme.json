@@ -28,7 +28,7 @@ SOFTWARE. */
 		// Base
 		"focusBorder": "#fbf7e125",
 		"icon.foreground": "#646464",
-		"widget.shadow": "#fbf7e120",
+		"widget.shadow": "#fbf7e125",
 		"descriptionForeground": "#0c0c0c",
 
 		// Welcome Page
@@ -48,7 +48,7 @@ SOFTWARE. */
 		"editor.wordHighlightStrongBackground": "#fbf7e135",
 		"editor.wordHighlightStrongBorder": "#fbf7e1",
 
-		"editorRuler.foreground": "#ffda9730",
+		"editorRuler.foreground": "#bfb59e7d",
 		
 		"editorWarning.foreground": "#ffda97",
 		"editorError.foreground": "#fd6c84",
@@ -64,7 +64,7 @@ SOFTWARE. */
 		"editorCursor.background": "#0c0c0c",
 		"editorCursor.foreground": "#fbf7e1",
 
-		"editorGroup.border": "#111113",
+		"editorGroup.border": "#0c0c0c",
 		"editorGroup.dropBackground": "#fbf7e120",
 		"editorGroupHeader.tabsBackground": "#fbf7e1",
 
@@ -99,9 +99,9 @@ SOFTWARE. */
 		"peekView.border": "#fbf7e125",
 		"peekViewEditor.background": "#25272e",
 		"peekViewEditor.matchHighlightBackground": "#fbf7e125",
-		"peekViewTitle.background": "#111113",
+		"peekViewTitle.background": "#0c0c0c",
 		"peekViewTitleDescription.foreground": "#00000025",
-		"peekViewResult.background": "#111113",
+		"peekViewResult.background": "#0c0c0c",
 
 		// Lists and Trees
 		"list.hoverBackground": "#0c0c0c30",
@@ -110,7 +110,7 @@ SOFTWARE. */
 		"list.activeSelectionBackground": "#0c0c0c",
 		"list.inactiveSelectionForeground": "#fbf7e1",
 		"list.inactiveSelectionIconForeground": "#fbf7e1",
-		"list.inactiveSelectionBackground": "#111113",
+		"list.inactiveSelectionBackground": "#0c0c0c",
 		"list.warningForeground": "#ffda97",
 		"list.errorForeground": "#fd6c84",
 		"tree.indentGuidesStroke": "#fbf7e125",
@@ -215,24 +215,24 @@ SOFTWARE. */
 		"quickInput.foreground": "#fbf7e1",
 
 		// Notifications
-		"notifications.background": "#111113",
+		"notifications.background": "#0c0c0c",
 		"notificationsInfoIcon.foreground": "#fbf7e1",
 		"notificationsWarningIcon.foreground": "#ffda97",
 		"notificationsErrorIcon.foreground": "#fd6c84",
 
 		// Status Bar
-		"statusBar.background": "#111113",
-		"statusBar.foreground": "#ffda9790",
-		"statusBar.noFolderBackground": "#111113",
+		"statusBar.background": "#0c0c0c",
+		"statusBar.foreground": "#ffda9780",
+		"statusBar.noFolderBackground": "#0c0c0c",
 		"statusBar.noFolderForeground": "#fbf7e140",
-		"statusBar.debuggingBackground": "#111113",
+		"statusBar.debuggingBackground": "#0c0c0c",
 		"statusBar.debuggingForeground": "#ffda9750",
 		"statusBarItem.warningBackground": "#ffda9750",
-		"statusBarItem.hoverForeground": "#111113",
+		"statusBarItem.hoverForeground": "#0c0c0c",
 		"statusBarItem.hoverBackground": "#fbf7e160",
 		"statusBarItem.remoteBackground": "#ffda97",
-		"statusBarItem.remoteForeground": "#111113",
-		"statusBarItem.remoteHoverBackground": "#111113",
+		"statusBarItem.remoteForeground": "#0c0c0c",
+		"statusBarItem.remoteHoverBackground": "#0c0c0c",
 		"statusBarItem.remoteHoverForeground": "#ffda97",
 		"statusBarItem.prominentBackground": "#2c2c31",
 		"statusBarItem.prominentForeground": "#fbf7e1",
@@ -240,7 +240,7 @@ SOFTWARE. */
 
 		// Settings
 		"settings.modifiedItemIndicator": "#ffda97",
-		"settings.dropdownBackground": "#111113",
+		"settings.dropdownBackground": "#0c0c0c",
 		"settings.dropdownForeground": "#fbf7e1",
 
 		// Terminal
@@ -250,15 +250,15 @@ SOFTWARE. */
 		"terminal.ansiBrightCyan": "#c5eaff",
 		"terminal.ansiGreen": "#c0dc99",
 		"terminal.ansiBrightGreen": "#d7f7a9",
-		"terminal.ansiRed": "#fdb8b8",
+		"terminal.ansiRed": "#ffa0a0",
 		"terminal.ansiBrightRed": "#ffc2cc",
 		"terminal.ansiWhite": "#fbf7e1",
 		"terminal.ansiBrightWhite": "#ffffff",
 		"terminal.ansiYellow": "#ffda97",
 		"terminal.ansiBrightYellow": "#ffda97",
-		"terminal.ansiBlack": "#111113",
+		"terminal.ansiBlack": "#0c0c0c",
 		"terminal.ansiBrightBlack": "#0c0c0c",
-		"terminal.ansiMagenta": "#c4b1d6",
+		"terminal.ansiMagenta": "#e3d3f1",
 		"terminal.ansiBrightMagenta": "#d8baf4",
 		"terminal.border": "#fbf7e150",
 		"terminal.tab.activeBorder": "#fff4b5",
@@ -291,7 +291,7 @@ SOFTWARE. */
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#fffdf330"
+				"foreground": "#fffdf340"
 			}
 		},
 		{
@@ -331,7 +331,7 @@ SOFTWARE. */
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#fdb8b8"
+				"foreground": "#ffa0a0"
 			}
 		},
 		{
@@ -351,7 +351,7 @@ SOFTWARE. */
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#d0f2ff90"
+				"foreground": "#ffffff90"
 			}
 		},
 		{
@@ -375,7 +375,7 @@ SOFTWARE. */
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#c4b1d6"
+				"foreground": "#e3d3f1"
 			}
 		},
 		{
@@ -384,7 +384,7 @@ SOFTWARE. */
 				"meta.function-call.arguments",
 			],
 			"settings": {
-				"foreground": "#abcbc4"
+				"foreground": "#8baea7"
 			}
 		},
 		{
@@ -444,6 +444,15 @@ SOFTWARE. */
 			],
 			"settings": {
 				"foreground": "#d7f7a9"
+			}
+		},
+		{
+			"name": "Quoted string",
+			"scope": [
+				"string.quoted.docstring.multi"
+			],
+			"settings": {
+				"foreground": "#bfb59ebe"
 			}
 		},
 		{
