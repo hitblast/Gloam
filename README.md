@@ -31,7 +31,7 @@
 
 Below is a preview of the theme in action. Feel free to have a look beforehand!
 
-(Project shown in the preview: [IgKnite](https://github.com/IgKniteDev/IgKnite))
+(Project shown in the preview: [avro.py](https://github.com/hitblast/avro.py))
 
 <img src="assets/preview.png">
 
