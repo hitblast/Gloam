@@ -68,7 +68,7 @@ SOFTWARE. */
 		"editorGroup.dropBackground": "#fbf7e120",
 		"editorGroupHeader.tabsBackground": "#fbf7e1",
 
-		"editorGutter.addedBackground": "#e9ffc480",
+		"editorGutter.addedBackground": "#d7f7a980",
 		"editorGutter.deletedBackground": "#fd6c8480",
 		"editorGutter.modifiedBackground": "#fbf7e180",
 
@@ -89,8 +89,8 @@ SOFTWARE. */
 		"editorMultiCursor.primary.foreground": "#ffda97",
 
 		// Diff Editor
-		"diffEditor.insertedLineBackground": "#e9ffc420",
-		"diffEditorGutter.insertedLineBackground": "#e9ffc410",
+		"diffEditor.insertedLineBackground": "#d7f7a920",
+		"diffEditorGutter.insertedLineBackground": "#d7f7a910",
 		"diffEditor.removedLineBackground": "#ffb0b420",
 		"diffEditorGutter.removedLineBackground": "#ffb0b410",
 		"diffEditor.diagonalFill": "#fbf7e125",
@@ -200,7 +200,7 @@ SOFTWARE. */
 		"minimap.warningHighlight": "#ffda97",
 		"minimap.errorHighlight": "#fd6c84",
 		"minimap.selectionHighlight": "#fbf7e115",
-		"minimapGutter.addedBackground": "#e9ffc470",
+		"minimapGutter.addedBackground": "#d7f7a970",
 		"minimapGutter.modifiedBackground": "#fbf7e170",
 		"minimapGutter.deletedBackground": "#fd6c8470",
 		
@@ -249,7 +249,7 @@ SOFTWARE. */
 		"terminal.ansiCyan": "#b0e2ff",
 		"terminal.ansiBrightCyan": "#c5eaff",
 		"terminal.ansiGreen": "#c0dc99",
-		"terminal.ansiBrightGreen": "#c3df9c",
+		"terminal.ansiBrightGreen": "#d7f7a9",
 		"terminal.ansiRed": "#fdb8b8",
 		"terminal.ansiBrightRed": "#ffc2cc",
 		"terminal.ansiWhite": "#fbf7e1",
@@ -273,7 +273,7 @@ SOFTWARE. */
 		// Testing 
 		"testing.iconErrored": "#ffda9770",
 		"testing.iconFailed": "#fd6c8470",
-		"testing.iconPassed": "#e9ffc470",
+		"testing.iconPassed": "#d7f7a970",
 		"testing.iconQueued": "#fbf7e170",
 		"testing.iconSkipped": "#c1ceff70",
 		"testing.iconUnset": "#f5f7fe70",
@@ -443,7 +443,7 @@ SOFTWARE. */
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#e9ffc4"
+				"foreground": "#d7f7a9"
 			}
 		},
 		{
@@ -578,7 +578,7 @@ SOFTWARE. */
 				"markup.inserted"
 			],
 			"settings": {
-				"foreground": "#e9ffc4"
+				"foreground": "#d7f7a9"
 			}
 		},
 		{
@@ -727,7 +727,7 @@ SOFTWARE. */
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#e9ffc4"
+				"foreground": "#d7f7a9"
 			}
 		},
 		{
@@ -766,7 +766,7 @@ SOFTWARE. */
 				"markup.heading.markdown punctuation.definition.heading.markdown"
 			],
 			"settings": {
-				"foreground": "#e9ffc4"
+				"foreground": "#d7f7a9"
 			}
 		},
 		{
