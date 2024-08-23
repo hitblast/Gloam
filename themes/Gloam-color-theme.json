@@ -27,13 +27,15 @@ SOFTWARE. */
 	"colors": {
 		// Base
 		"focusBorder": "#fbf7e125",
-		"icon.foreground": "#fbf7e160",
+		"icon.foreground": "#0c0c0c",
 		"widget.shadow": "#fbf7e120",
 		"descriptionForeground": "#0c0c0c",
 
-		// Welcome Tab
+		// Welcome Page
 		"welcomePage.background": "#0c0c0c",
+		"welcomePage.tileBackground": "#fbf7e130",
 		"welcomePage.progress.foreground": "#fbf7e135",
+		"welcomePage.progress.background": "#fbf7e105",
 		
 		// Editor
 		"editor.background": "#0c0c0c",
@@ -70,7 +72,7 @@ SOFTWARE. */
 		"editorGutter.deletedBackground": "#fd6c8480",
 		"editorGutter.modifiedBackground": "#fbf7e180",
 
-		"editorWidget.background": "#111113",
+		"editorWidget.background": "#0c0c0c",
 		"editorHoverWidget.border": "#fbf7e125",
 		"editorHoverWidget.foreground": "#fbf7e1",
 
@@ -132,8 +134,8 @@ SOFTWARE. */
 		"tab.activeBackground": "#0c0c0c",
 		"tab.activeForeground": "#fbf7e1",
 		"tab.inactiveBackground": "#fbf7e1",
-		"tab.inactiveForeground": "#111113",
-		"tab.selectedBorderTop": "#fbf7e1",
+		"tab.inactiveForeground": "#0c0c0c",
+		"tab.selectedBorderTop": "#0c0c0c",
 
 		// Title Bar
 		"titleBar.activeBackground": "#fbf7e1",
@@ -165,6 +167,7 @@ SOFTWARE. */
 		// Side Bar
 		"sideBarTitle.foreground": "#0c0c0c",
 		"sideBarTitle.background": "#fbf7e1",
+		"sideBar.border": "#0c0c0c",
 		"sideBar.background": "#fbf7e1",
 		"sideBar.foreground": "#0c0c0c",
 		"sideBarSectionHeader.background": "#ffda97",
@@ -187,8 +190,9 @@ SOFTWARE. */
 		"gitDecoration.ignoredResourceForeground": "#7d7d76",
 
 		// Buttons
-		"button.background": "#232427",
-		"button.border": "#fbf7e160",
+		"button.background": "#0c0c0c90",
+		"button.border": "#fbf7e1",
+		"button.hoverBackground": "#0c0c0c",
 		"button.foreground": "#fbf7e1",
 
 		// Minimap
@@ -202,7 +206,14 @@ SOFTWARE. */
 		
 		// Inputs
 		"input.background": "#0c0c0c30",
+		"input.foreground": "#0c0c0c",
 		"input.placeholderForeground": "#0c0c0c",
+
+		// Quick Input
+		"quickInput.background": "#fbf7e1",
+		"quickInput.foreground": "#0c0c0c",
+		"quickInputList.focusBackground": "#0c0c0c",
+		"quickInputList.focusForeground": "#fbf7e1",
 
 		// Notifications
 		"notifications.background": "#111113",
@@ -244,8 +255,8 @@ SOFTWARE. */
 		"terminal.ansiBrightRed": "#ffc2cc",
 		"terminal.ansiWhite": "#fbf7e1",
 		"terminal.ansiBrightWhite": "#ffffff",
-		"terminal.ansiYellow": "#ffef97",
-		"terminal.ansiBrightYellow": "#fff8d3",
+		"terminal.ansiYellow": "#ffda97",
+		"terminal.ansiBrightYellow": "#ffda97",
 		"terminal.ansiBlack": "#111113",
 		"terminal.ansiBrightBlack": "#0c0c0c",
 		"terminal.ansiMagenta": "#c4b1d6",
@@ -256,6 +267,10 @@ SOFTWARE. */
 		"terminalCommandDecoration.defaultBackground": "#fbf7e1",
 		"terminalCommandDecoration.successBackground": "#fbf7e125",
 		"terminalCommandDecoration.errorBackground": "#fd6c84",
+
+		"textBlockQuote.background": "#fbf7e105",
+		"textBlockQuote.border": "#fbf7e130",
+		"textCodeBlock.background": "#fbf7e120",
 
 		// Testing 
 		"testing.iconErrored": "#ffda9770",
