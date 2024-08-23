@@ -23,7 +23,7 @@ SOFTWARE. */
 
 {
 	"name": "Gloam",
-	"type": "light",
+	"type": "dark",
 	"colors": {
 		// Base
 		"focusBorder": "#fbf7e125",
