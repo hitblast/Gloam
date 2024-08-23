@@ -27,7 +27,7 @@ SOFTWARE. */
 	"colors": {
 		// Base
 		"focusBorder": "#fbf7e125",
-		"icon.foreground": "#0c0c0c",
+		"icon.foreground": "#646464",
 		"widget.shadow": "#fbf7e120",
 		"descriptionForeground": "#0c0c0c",
 
@@ -261,8 +261,7 @@ SOFTWARE. */
 		"terminal.ansiBrightBlack": "#0c0c0c",
 		"terminal.ansiMagenta": "#c4b1d6",
 		"terminal.ansiBrightMagenta": "#d8baf4",
-		"terminal.foreground": "#fbf7e1",
-		"terminal.border": "#111113",
+		"terminal.border": "#fbf7e150",
 		"terminal.tab.activeBorder": "#fff4b5",
 		"terminalCommandDecoration.defaultBackground": "#fbf7e1",
 		"terminalCommandDecoration.successBackground": "#fbf7e125",
