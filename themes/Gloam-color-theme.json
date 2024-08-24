@@ -306,7 +306,7 @@ SOFTWARE. */
 				"meta.paragraph"
 			],
 			"settings": {
-				"foreground": "#fbf7e1"
+				"foreground": "#fffdf2"
 			}
 		},
 		{
@@ -476,7 +476,7 @@ SOFTWARE. */
 				"string.unquoted"
 			],
 			"settings": {
-				"foreground": "#fbf7e1"
+				"foreground": "#fffdf2"
 			}
 		},
 		{
@@ -761,7 +761,7 @@ SOFTWARE. */
 				"punctuation.definition.list_item.markdown"
 			],
 			"settings": {
-				"foreground": "#fbf7e1"
+				"foreground": "#fffdf2"
 			}
 		},
 		{
